@@ -13,10 +13,9 @@ import java.util.Scanner;
 
 public class Client {
 
-    static String serverIP = "127.0.0.1";
+    static String serverIP = "192.168.137.1";
     static final int port = Server.port;
     static final int portChannel = Server.portChannel;
-    //static final String clientPath = "./ClientPath/";
     static final String clientPath = "C:\\Users\\sukum\\OneDrive\\เอกสาร\\NetBeansProjects\\Multithread\\File\\Client\\";
 
     private Socket clientSocket;
