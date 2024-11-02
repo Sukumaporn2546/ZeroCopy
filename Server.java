@@ -18,7 +18,6 @@ public class Server {
 
     static final int port = 12345;
     static final int portChannel = 12346;
-    //static final String serverPath = "./ServerPath/";
     static final String serverPath = "C:\\Users\\sukum\\OneDrive\\เอกสาร\\NetBeansProjects\\Multithread\\File\\Server\\";
 
     public Server() {
